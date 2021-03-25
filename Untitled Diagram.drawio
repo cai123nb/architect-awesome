@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T06:38:13.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="mo94uxo7S5z65kCM5wcZ" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T07:20:18.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="hkxTsTqwhAdKCTyQfJhw" version="14.5.1" type="github">
   <diagram id="CPcHUgZNeSsTc6fRN_Vr" name="Page-1">
     <mxGraphModel dx="946" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,6 +119,9 @@
         </mxCell>
         <mxCell id="OxncHxUymOrdd1ZA1yIg-4" value="业务视角+被动+完成时&lt;br&gt;（和系统实现无关）&lt;br&gt;xx已xx&lt;br&gt;如： 专题已创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="1300" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OxncHxUymOrdd1ZA1yIg-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="OxncHxUymOrdd1ZA1yIg-7" target="OxncHxUymOrdd1ZA1yIg-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OxncHxUymOrdd1ZA1yIg-7" value="命令 + 操作人员 + 读模型&lt;br&gt;如： 专题已创建&lt;br&gt;命令：创建专题&lt;br&gt;操作人员：业务人员&lt;br&gt;读模型：无&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=ltr;" vertex="1" parent="1">
           <mxGeometry x="175" y="1300" width="145" height="90" as="geometry" />
