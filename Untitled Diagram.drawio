@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T06:33:01.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="AiIiKUaNKFFCduKWiGTv" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T06:35:44.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="wt9I9mT3Y1DkwkQE22YS" version="14.5.1" type="github">
   <diagram id="CPcHUgZNeSsTc6fRN_Vr" name="Page-1">
     <mxGraphModel dx="946" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,11 +102,20 @@
         <mxCell id="pbnYTeeDnfWr0KV266Js-35" value="子领域&lt;br&gt;Sub Domain" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="310" y="700" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="OxncHxUymOrdd1ZA1yIg-1" value="业务领域&lt;br&gt;BusinessDomain" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1200" width="90" height="90" as="geometry" />
+        <mxCell id="OxncHxUymOrdd1ZA1yIg-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;生成事件&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1169" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="OxncHxUymOrdd1ZA1yIg-2" value="事件风暴" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OxncHxUymOrdd1ZA1yIg-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;事件风暴&lt;/font&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OxncHxUymOrdd1ZA1yIg-3" value="&lt;span style=&quot;font-size: 18px&quot;&gt;识别命令&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1169" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OxncHxUymOrdd1ZA1yIg-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="OxncHxUymOrdd1ZA1yIg-4" target="OxncHxUymOrdd1ZA1yIg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OxncHxUymOrdd1ZA1yIg-4" value="业务视角+被动+完成时&lt;br&gt;（和系统实现无关）&lt;br&gt;xx已xx&lt;br&gt;如： 专题已创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1300" width="145" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
